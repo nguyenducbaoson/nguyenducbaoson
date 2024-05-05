@@ -4,4 +4,4 @@
 🌷 #learninginpublic in my digital garden<br/>
 💭 Currently learning about ReactJS!<br/>
 
-[![Github stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenducbaoson)](https://github.com/nguyenducbaoson/github-readme-stats))]
+([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenducbaoson)](https://github.com/nguyenducbaoson/github-readme-stats))]
