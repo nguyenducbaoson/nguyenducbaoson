@@ -1,5 +1,3 @@
-                                                                                                🎓 Welcome to my Show 🎓
-
 ### 🏄‍♂️ Nguyen Duc Bao Son
 👩🏻‍💻 I'm a Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Infomation Technology at the University of Transport and Communications, Ha Noi<br/>
